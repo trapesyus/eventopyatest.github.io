@@ -1,11 +1,11 @@
 {
-    "name": "wedding_organise",
-    "short_name": "wedding_organise",
+    "name": "Eventopya",
+    "short_name": "Eventopya",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Eventopya, özel günlerinizi unutulmaz kılmak için yanınızda olan bir organizasyon platformudur. Düğün, kına gecesi, doğum günü ve daha fazlası için geniş bir hizmet yelpazesi sunuyoruz. Profesyonel ekibimiz, her detayı özenle planlayarak sizin için en özel anıları yaratmaya yardımcı oluyor. Hayalinizdeki etkinliği gerçeğe dönüştürmek için Eventopya yanınızda!",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
